@@ -15,3 +15,7 @@ Later, I started writing websites in Javascript, and Ruby in the backend. I felt
 In 2022 October, I started studying programming (mainly in C and C++) at 42 Heilbronn. C feels like a blank sheet of paper, with very simple syntax yet very powerful. It is here that I finally see how deploying design patterns gives structure to my project. I also found object-oriented programming useful in C: I see each struct as the data members of an object, and some functions acting as the methods of the object. Of course, there is no lambda in C, but I can design functions that can nicely chain together well, still a functional programmer at heart :). I also incorporate RAII design (from C++) and ownership of data (inspired by Rust) when I write C code. The past 4 years of coding finally brought me the freedom now to use ideas from different languages in the one that I write at the moment.
 
 Now I am writing C++ code, and I hope to learn Rust in the future.
+
+## Links
+
+[Notes for each project in 42 Heilbronn](https://anthonytsang.notion.site/anthonytsang/42-b08e955b402b42609c4ebda0a2f35dc1)
