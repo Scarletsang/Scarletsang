@@ -6,7 +6,7 @@ I see code as literature that helps programmers understand a complex system. In 
 
 I am currently studying at 42 Heilbronn, looking for a software development internship in Germany.
 
-## How I started?
+## My journey
 
 My first two programming languages were Lisp and Haskell. They taught me to reason programs using functions and types. Typeclass enables generic functions that only accept types with certain traits; algebraic data types compose different types to form new types; monad encourages composing functions and transforming data easily. Although I found these languages hard to use practically, I see how concise code can be to describe objects and actions. I am a fan of functional programming.
 
